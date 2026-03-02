@@ -16,7 +16,6 @@ A three-part financial analysis project spanning **bank liquidity risk modeling*
 - [YE 2022 — Citigroup Financial Model](#ye-2022--citigroup-financial-model)
 - [Key Insights](#key-insights)
 - [Skills Demonstrated](#skills-demonstrated)
-- [About the Author](#about-the-author)
 
 ---
 
