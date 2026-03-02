@@ -34,7 +34,7 @@ A three-part financial analysis project spanning **bank liquidity risk modeling*
 
 Analyzes the relationship between daily new COVID-19 case counts and indexed consumer credit card spending across four categories: Total, Delayable, Social, Staples, and Work-related (indexed to February 2020 = 100).
 
-![Credit Sales vs COVID Cases](output2_credit_sales_vs_covid.png)
+![Credit Sales vs COVID Cases](images/output2_credit_sales_vs_covid.png)
 
 **Key Findings:**
 - Spending collapsed to ~**50–55** (index) during the first lockdown in March–April 2020, then gradually recovered through mid-2020
@@ -49,7 +49,7 @@ Analyzes the relationship between daily new COVID-19 case counts and indexed con
 
 A daily liquidity risk model tracking three deposit products, three loan products, their resulting surplus positions, and stress-tested surplus after applying haircuts — with embedded early warning triggers and management action thresholds.
 
-![Surplus & Stressed Surplus](output1_surplus_stressed_surplus.png)
+![Surplus & Stressed Surplus](images/output1_surplus_stressed_surplus.png)
 
 **Model Structure:**
 
