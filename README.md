@@ -31,7 +31,7 @@ A three-part financial analysis project spanning **bank liquidity risk modeling*
 
 ## Task 3 — COVID-19 & Credit Card Spending
 
-Analyzes the relationship between daily new COVID-19 case counts and indexed consumer credit card spending across four categories: Total, Delayable, Social, Staples, and Work-related (indexed to February 2020 = 100).
+Analyzes the relationship between daily new COVID-19 case counts and indexed consumer credit card spending across four categories: Delayable, Social, Staples, and Work-related (indexed to February 2020 = 100).
 
 ![Credit Sales vs COVID Cases](images/output2_credit_sales_vs_covid.png)
 
